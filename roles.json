@@ -529,7 +529,8 @@
       "de-CH": "Heizung - Aktuelle Heizleistung",
       "de-DE": "Heizung - Aktuelle Heizleistung",
       "en-US": "heating system - current heating power"
-    }
+    },
+    "aggregation":  "max"
   },
   {
     "id": "20.10.19",
