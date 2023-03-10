@@ -537,7 +537,8 @@
       "de-CH": "Heizung - Taktung",
       "de-DE": "Heizung - Taktung",
       "en-US": "heating system - on/off cycles"
-    }
+    },
+    "aggregation": "count"
   },
   {
     "id": "20.10.20",
