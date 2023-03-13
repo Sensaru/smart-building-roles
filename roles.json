@@ -2316,8 +2316,8 @@
   {
     "id": "90.02.11",
     "translations": {
-      "de-CH": "Zählerstand Wirkenergie Wirkenergie Bezug gesamt",
-      "de-DE": "Zählerstand Wirkenergie Wirkenergie Bezug gesamt",
+      "de-CH": "Zählerstand Wirkenergie Bezug gesamt",
+      "de-DE": "Zählerstand Wirkenergie Bezug gesamt",
       "en-US": "Meter reading active energy (consumption) total"
     },
     "aggregation": "meter"
@@ -2325,8 +2325,8 @@
   {
     "id": "90.02.12",
     "translations": {
-      "de-CH": "Verbrauch Wirkenergie Wirkenergie Bezug gesamt",
-      "de-DE": "Verbrauch Wirkenergie Wirkenergie Bezug gesamt",
+      "de-CH": "Verbrauch Wirkenergie Bezug gesamt",
+      "de-DE": "Verbrauch Wirkenergie Bezug gesamt",
       "en-US": "Consumption active energy (consumption) total"
     },
     "aggregation": "count"
