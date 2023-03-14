@@ -3178,6 +3178,14 @@
     }
   },
   {
+    "id": "02.01.01",
+    "translations": {
+      "de-CH": "RSSI",
+      "de-DE": "RSSI",
+      "en-US": "RSSI"
+    }
+  },
+  {
     "id": "02.02.00",
     "translations": {
       "de-CH": "Kommunikationsmodul",
