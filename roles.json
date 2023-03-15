@@ -2750,7 +2750,7 @@
       "de-DE": "Zählerstand Energie",
       "en-US": "Consumption energy"
     },
-    "aggregation": "count"
+    "aggregation": "meter"
   },
   {
     "id": "90.03.04",
