@@ -2624,7 +2624,7 @@
     "translations": {
       "de-CH": "Blindenergie kapazitiv T1",
       "de-DE": "Blindenergie kapazitiv T1",
-      "en-US": "Reactive energy capazitive T1"
+      "en-US": "Reactive energy capacitive T1"
     },
     "aggregation": "meter"
   },
@@ -2633,7 +2633,7 @@
     "translations": {
       "de-CH": "Blindenergie kapazitiv T2",
       "de-DE": "Blindenergie kapazitiv T2",
-      "en-US": "Reactive energy capazitive T2"
+      "en-US": "Reactive energy capacitive T2"
     },
     "aggregation": "meter"
   },
@@ -2642,7 +2642,7 @@
     "translations": {
       "de-CH": "Blindenergie kapazitiv total",
       "de-DE": "Blindenergie kapazitiv total",
-      "en-US": "Reactive energy capazitive total"
+      "en-US": "Reactive energy capacitive total"
     },
     "aggregation": "meter"
   },
