@@ -3162,6 +3162,14 @@
     }
   },
   {
+    "id": "01.00.08",
+    "translations": {
+      "de-CH": "Aussentemperatur",
+      "de-DE": "Außentemperatur",
+      "en-US": "Outside temperature"
+    }
+  },
+  {
     "id": "02.00.00",
     "translations": {
       "de-CH": "Digitale Infrastruktur",
