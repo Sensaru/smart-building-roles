@@ -3223,9 +3223,49 @@
   {
     "id": "02.01.01",
     "translations": {
-      "de-CH": "RSSI",
-      "de-DE": "RSSI",
-      "en-US": "RSSI"
+      "de-CH": "RSRP",
+      "de-DE": "RSRP",
+      "en-US": "RSRP"
+    }
+  },
+  {
+    "id": "02.01.02",
+    "translations": {
+      "de-CH": "RSRQ",
+      "de-DE": "RSRQ",
+      "en-US": "RSRQ"
+    }
+  },
+  {
+    "id": "02.01.03",
+    "translations": {
+      "de-CH": "Coverage extension",
+      "de-DE": "Coverage extension",
+      "en-US": "coverage extension"
+    }
+  },
+  {
+    "id": "02.01.04",
+    "translations": {
+      "de-CH": "NB-IoT-Reset-Zähler",
+      "de-DE": "NB-IoT-Reset-Zähler",
+      "en-US": "NB-IoT reset counter"
+    }
+  },
+  {
+    "id": "02.01.05",
+    "translations": {
+      "de-CH": "Gesamt-Onboardingzeit",
+      "de-DE": "Gesamt-Onboardingzeit",
+      "en-US": "Total onboarding time"
+    }
+  },
+  {
+    "id": "02.01.06",
+    "translations": {
+      "de-CH": "Angelernte Geräte",
+      "de-DE": "Angelernte Geräte",
+      "en-US": "Paired devices"
     }
   },
   {
