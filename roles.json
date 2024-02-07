@@ -3269,6 +3269,14 @@
     }
   },
   {
+    "id": "02.01.07",
+    "translations": {
+      "de-CH": "NB-IoT-Sendefehler",
+      "de-DE": "NB-IoT-Sendefehler",
+      "en-US": "NB-IoT send errors"
+    }
+  },
+  {
     "id": "02.02.00",
     "translations": {
       "de-CH": "Kommunikationsmodul",
