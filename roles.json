@@ -2225,28 +2225,6 @@
     }
   },
   {
-    "id": "81.00.04",
-    "types": [
-      "int"
-    ],
-    "translations": {
-      "de-CH": "Zeitoffset",
-      "de-DE": "Zeitoffset",
-      "en-US": "Time offset"
-    }
-  },
-  {
-    "id": "81.00.05",
-    "types": [
-      "int"
-    ],
-    "translations": {
-      "de-CH": "RSSI",
-      "de-DE": "RSSI",
-      "en-US": "RSSI"
-    }
-  },
-  {
     "id": "90.00.00",
     "translations": {
       "de-CH": "Zähler",
@@ -3432,6 +3410,36 @@
       "de-CH": "Autoaufzug",
       "de-DE": "Autoaufzug",
       "en-US": "car elevator"
+    }
+  },
+  {
+    "id": "05.00.00",
+    "translations": {
+      "de-CH": "Systemstatus",
+      "de-DE": "Systemstatus",
+      "en-US": "system status"
+    }
+  },
+  {
+    "id": "05.00.01",
+    "types": [
+      "int"
+    ],
+    "translations": {
+      "de-CH": "Zeitoffset",
+      "de-DE": "Zeitoffset",
+      "en-US": "Time offset"
+    }
+  },
+  {
+    "id": "05.00.02",
+    "types": [
+      "int"
+    ],
+    "translations": {
+      "de-CH": "RSSI",
+      "de-DE": "RSSI",
+      "en-US": "Time offset"
     }
   },
   {
