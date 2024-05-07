@@ -1816,9 +1816,9 @@
       "float"
     ],
     "translations": {
-      "de-CH": "Wetter - Temperatur",
-      "de-DE": "Wetter - Temperatur",
-      "en-US": "weather - temperature"
+      "de-CH": "Außentemperatur",
+      "de-DE": "Außentemperatur",
+      "en-US": "outside temperature"
     },
     "ui": {
       "simpleCreationInfo": {
