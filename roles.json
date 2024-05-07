@@ -2236,6 +2236,17 @@
     }
   },
   {
+    "id": "81.00.05",
+    "types": [
+      "int"
+    ],
+    "translations": {
+      "de-CH": "RSSI",
+      "de-DE": "RSSI",
+      "en-US": "RSSI"
+    }
+  },
+  {
     "id": "90.00.00",
     "translations": {
       "de-CH": "Zähler",
