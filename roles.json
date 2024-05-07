@@ -2225,6 +2225,17 @@
     }
   },
   {
+    "id": "81.00.04",
+    "types": [
+      "int"
+    ],
+    "translations": {
+      "de-CH": "Zeitoffset",
+      "de-DE": "Zeitoffset",
+      "en-US": "Time offset"
+    }
+  },
+  {
     "id": "90.00.00",
     "translations": {
       "de-CH": "Zähler",
