@@ -2555,6 +2555,60 @@
     "aggregation": "count"
   },
   {
+    "id": "90.02.33",
+    "translations": {
+      "de-CH": "Zählerstand Wirkenergie Erzeugung T1",
+      "de-DE": "Zählerstand Wirkenergie Erzeugung T1",
+      "en-US": "Meter reading active energy (production) T1"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "90.02.34",
+    "translations": {
+      "de-CH": "Produktion Wirkenergie Erzeugung T1",
+      "de-DE": "Produktion Wirkenergie Erzeugung T1",
+      "en-US": "Production active energy (production) T1"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "90.02.35",
+    "translations": {
+      "de-CH": "Zählerstand Wirkenergie Erzeugung T2",
+      "de-DE": "Zählerstand Wirkenergie Erzeugung T2",
+      "en-US": "Meter reading active energy (production) T2"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "90.02.36",
+    "translations": {
+      "de-CH": "Produktion Wirkenergie Erzeugung T2",
+      "de-DE": "Produktion Wirkenergie Erzeugung T2",
+      "en-US": "Production active energy (production) T2"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "90.02.37",
+    "translations": {
+      "de-CH": "Zählerstand Wirkenergie Erzeugung gesamt",
+      "de-DE": "Zählerstand Wirkenergie Erzeugung gesamt",
+      "en-US": "Meter reading active energy (production) total"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "90.02.38",
+    "translations": {
+      "de-CH": "Produktion Wirkenergie Erzeugung gesamt",
+      "de-DE": "Produktion Wirkenergie Erzeugung gesamt",
+      "en-US": "Production active energy (production) total"
+    },
+    "aggregation": "count"
+  },
+  {
     "id": "90.02.50",
     "translations": {
       "de-CH": "Wirkleistung total",
@@ -3187,6 +3241,76 @@
       "de-DE": "Volumen",
       "en-US": "Volume"
     }
+  },
+  {
+    "id": "90.12.00",
+    "translations": {
+      "de-CH": "Ölzähler",
+      "de-DE": "Ölzähler",
+      "en-US": "Oil meter"
+    }
+  },
+  {
+    "id": "90.12.01",
+    "translations": {
+      "de-CH": "Zählerstand (Volumen)",
+      "de-DE": "Zählerstand (Volumen)",
+      "en-US": "Meter reading (volume)"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "90.12.02",
+    "translations": {
+      "de-CH": "Verbrauch (Volumen)",
+      "de-DE": "Verbrauch (Volumen)",
+      "en-US": "Consumption (volume)"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "90.12.03",
+    "translations": {
+      "de-CH": "Zählerstand (Energie)",
+      "de-DE": "Zählerstand (Energie)",
+      "en-US": "Consumption (energy)"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "90.12.04",
+    "translations": {
+      "de-CH": "Verbrauch (Energie)",
+      "de-DE": "Verbrauch (Energie)",
+      "en-US": "Consumption (energy)"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "90.13.00",
+    "translations": {
+      "de-CH": "Stromzähler Wärmepumpe",
+      "de-DE": "Stromzähler Wärmepumpe",
+      "en-US": "Power meter heat pump"
+    }
+  },
+  {
+    "id": "90.13.01",
+    "translations": {
+      "de-CH": "Zählerstand",
+      "de-DE": "Zählerstand",
+      "en-US": "Meter reading"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "90.13.02",
+    "translations": {
+      "de-CH": "Verbrauch",
+      "de-DE": "Verbrauch",
+      "en-US": "Consumption"
+    },
+    "aggregation": "count"
   },
   {
     "id": "01.00.00",
