@@ -3289,9 +3289,9 @@
   {
     "id": "90.13.00",
     "translations": {
-      "de-CH": "Stromzähler Wärmepumpe",
-      "de-DE": "Stromzähler Wärmepumpe",
-      "en-US": "Power meter heat pump"
+      "de-CH": "Stromzähler Heizung",
+      "de-DE": "Stromzähler Heizung",
+      "en-US": "Power meter heating"
     }
   },
   {
