@@ -3315,9 +3315,9 @@
   {
     "id": "90.14.00",
     "translations": {
-      "de-CH": "Wärmemengenzähler Fernwärme",
-      "de-DE": "Wärmemengenzähler Fernwärme",
-      "en-US": "Heat meter district heating"
+      "de-CH": "Fernwärmemengenzähler",
+      "de-DE": "Fernwärmemengenzähler",
+      "en-US": "District heat meter"
     }
   },
   {
