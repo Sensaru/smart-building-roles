@@ -3313,6 +3313,75 @@
     "aggregation": "count"
   },
   {
+    "id": "90.14.00",
+    "translations": {
+      "de-CH": "Wärmemengenzähler Fernwärme",
+      "de-DE": "Wärmemengenzähler Fernwärme",
+      "en-US": "Heat meter district heating"
+    }
+  },
+  {
+    "id": "90.14.01",
+    "translations": {
+      "de-CH": "Zählerstand",
+      "de-DE": "Zählerstand",
+      "en-US": "Meter reading"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "90.15.00",
+    "translations": {
+      "de-CH": "Pelletzähler",
+      "de-DE": "Pelletzähler",
+      "en-US": "Pellet meter"
+    }
+  },
+  {
+    "id": "90.15.01",
+    "translations": {
+      "de-CH": "Zählerstand",
+      "de-DE": "Zählerstand",
+      "en-US": "Meter reading"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "90.15.02",
+    "translations": {
+      "de-CH": "Verbrauch",
+      "de-DE": "Verbrauch",
+      "en-US": "Consumption"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "90.16.00",
+    "translations": {
+      "de-CH": "Universalzähler",
+      "de-DE": "Universalzähler",
+      "en-US": "Generic meter"
+    }
+  },
+  {
+    "id": "90.16.01",
+    "translations": {
+      "de-CH": "Zählerstand",
+      "de-DE": "Zählerstand",
+      "en-US": "Meter reading"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "90.16.02",
+    "translations": {
+      "de-CH": "Verbrauch",
+      "de-DE": "Verbrauch",
+      "en-US": "Consumption"
+    },
+    "aggregation": "count"
+  },
+  {
     "id": "01.00.00",
     "translations": {
       "de-CH": "Sensoren",
