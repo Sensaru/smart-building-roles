@@ -566,6 +566,14 @@
     }
   },
   {
+    "id": "20.10.23",
+    "translations": {
+      "de-CH": "Heizung - Fließgeschwindigkeit",
+      "de-DE": "Heizung - Fließgeschwindigkeit",
+      "en-US": "heating system - flow rate"
+    }
+  },
+  {
     "id": "20.11.00",
     "translations": {
       "de-CH": "Druckhaltestation",
