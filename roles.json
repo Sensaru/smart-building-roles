@@ -3644,6 +3644,17 @@
     }
   },
   {
+    "id": "05.00.03",
+    "types": [
+      "int"
+    ],
+    "translations": {
+      "de-CH": "Nicht empfangene Telegramme",
+      "de-DE": "Nicht empfangene Telegramme",
+      "en-US": "Missed telegrams"
+    }
+  },
+  {
     "id": "A0.00.00",
     "translations": {
       "de-CH": "Wärme-Erzeugung",
