@@ -3649,9 +3649,20 @@
       "int"
     ],
     "translations": {
-      "de-CH": "Nicht empfangene Telegramme",
-      "de-DE": "Nicht empfangene Telegramme",
+      "de-CH": "Telegrammverluste",
+      "de-DE": "Telegrammverluste",
       "en-US": "Missed telegrams"
+    }
+  },
+  {
+    "id": "05.00.04",
+    "types": [
+      "int"
+    ],
+    "translations": {
+      "de-CH": "Telegrammwiederholungen",
+      "de-DE": "Telegrammwiederholungen",
+      "en-US": "Resent telegrams"
     }
   },
   {
