@@ -3528,8 +3528,8 @@
   {
     "id": "02.01.08",
     "translations": {
-      "de-CH": "Aufwachzähler-Fehler",
-      "de-DE": "Aufwachzähler-Fehler",
+      "de-CH": "Aufwachzählerfehler",
+      "de-DE": "Aufwachzählerfehler",
       "en-US": "Wake-up counter error"
     }
   },
