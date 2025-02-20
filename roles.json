@@ -3526,6 +3526,14 @@
     }
   },
   {
+    "id": "02.01.08",
+    "translations": {
+      "de-CH": "Aufwachzähler-Fehler",
+      "de-DE": "Aufwachzähler-Fehler",
+      "en-US": "Wake-up counter error"
+    }
+  },
+  {
     "id": "02.02.00",
     "translations": {
       "de-CH": "Kommunikationsmodul",
@@ -3663,6 +3671,17 @@
       "de-CH": "Telegrammwiederholungen",
       "de-DE": "Telegrammwiederholungen",
       "en-US": "Resent telegrams"
+    }
+  },
+  {
+    "id": "05.00.05",
+    "types": [
+      "int"
+    ],
+    "translations": {
+      "de-CH": "Systeminfo",
+      "de-DE": "Systeminfo",
+      "en-US": "System info"
     }
   },
   {
