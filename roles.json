@@ -822,6 +822,22 @@
     }
   },
   {
+    "id": "20.20.27",
+    "translations": {
+      "de-CH": "Vorlauftemperatur Lufterhitzer",
+      "de-DE": "Vorlauftemperatur Lufterhitzer",
+      "en-US": "supply temperature air heater"
+    }
+  },
+  {
+    "id": "20.20.28",
+    "translations": {
+      "de-CH": "Rücklauftemperatur Lufterhitzer",
+      "de-DE": "Rücklauftemperatur Lufterhitzer",
+      "en-US": "return temperature air heater"
+    }
+  },
+  {
     "id": "20.30.00",
     "translations": {
       "de-CH": "Wärmepumpe",
@@ -843,6 +859,30 @@
       "de-CH": "Pelletkessel",
       "de-DE": "Pelletkessel",
       "en-US": "pellet boiler"
+    }
+  },
+  {
+    "id": "20.60.00",
+    "translations": {
+      "de-CH": "Kälteerzeuger",
+      "de-DE": "Kälteerzeuger",
+      "en-US": "chiller"
+    }
+  },
+  {
+    "id": "20.60.01",
+    "translations": {
+      "de-CH": "Vorlauftemperatur",
+      "de-DE": "Vorlauftemperatur",
+      "en-US": "supply temperature"
+    }
+  },
+  {
+    "id": "20.60.02",
+    "translations": {
+      "de-CH": "Vorlauftemperatur",
+      "de-DE": "Vorlauftemperatur",
+      "en-US": "return temperature"
     }
   },
   {
@@ -952,6 +992,14 @@
       "de-CH": "RWA-Anlage",
       "de-DE": "RWA-Anlage",
       "en-US": "SHE system"
+    }
+  },
+  {
+    "id": "30.21.00",
+    "translations": {
+      "de-CH": "MRWA-Anlage",
+      "de-DE": "MRWA-Anlage",
+      "en-US": "MSHE system"
     }
   },
   {
@@ -2186,6 +2234,17 @@
       "de-CH": "Flutalarm",
       "de-DE": "Flutalarm",
       "en-US": "flood alert"
+    }
+  },
+  {
+    "id": "80.03.05",
+    "types": [
+      "bool"
+    ],
+    "translations": {
+      "de-CH": "Rauchalarm",
+      "de-DE": "Rauchalarm",
+      "en-US": "smoke alarm"
     }
   },
   {
@@ -3587,6 +3646,14 @@
       "de-CH": "Rückstauklappe",
       "de-DE": "Rückstauklappe",
       "en-US": "backflow trap"
+    }
+  },
+  {
+    "id": "03.10.00",
+    "translations": {
+      "de-CH": "Sprinkleranlage",
+      "de-DE": "Sprinkleranlage",
+      "en-US": "sprinkler system"
     }
   },
   {
