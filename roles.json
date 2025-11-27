@@ -2231,6 +2231,105 @@
     }
   },
   {
+    "id": "80.02.06",
+    "types": [
+      "bool"
+    ],
+    "translations": {
+      "de-CH": "Hochdruck Alarm",
+      "de-DE": "Hochdruck Alarm",
+      "en-US": "high pressure alarm"
+    }
+  },
+  {
+    "id": "80.02.07",
+    "types": [
+      "bool"
+    ],
+    "translations": {
+      "de-CH": "Niederdruck Alarm",
+      "de-DE": "Niederdruck Alarm",
+      "en-US": "low pressure alarm"
+    }
+  },
+  {
+    "id": "80.02.08",
+    "types": [
+      "bool"
+    ],
+    "translations": {
+      "de-CH": "TWW zu kalt",
+      "de-DE": "TWW zu kalt",
+      "en-US": "DHW too cold"
+    }
+  },
+  {
+    "id": "80.02.09",
+    "types": [
+      "bool"
+    ],
+    "translations": {
+      "de-CH": "Thermische Desinfektion fällig",
+      "de-DE": "Thermische Desinfektion fällig",
+      "en-US": "thermal disinfection due"
+    }
+  },
+  {
+    "id": "80.02.10",
+    "types": [
+      "bool"
+    ],
+    "translations": {
+      "de-CH": "Aussentemperatur nicht plausibel",
+      "de-DE": "Außentemperatur nicht plausibel",
+      "en-US": "outside temperature implausible"
+    }
+  },
+  {
+    "id": "80.02.11",
+    "types": [
+      "bool"
+    ],
+    "translations": {
+      "de-CH": "Revision aktiv",
+      "de-DE": "Revision aktiv",
+      "en-US": "maintenance active"
+    }
+  },
+  {
+    "id": "80.02.12",
+    "types": [
+      "bool"
+    ],
+    "translations": {
+      "de-CH": "Notbetrieb",
+      "de-DE": "Notbetrieb",
+      "en-US": "emergency operation"
+    }
+  },
+  {
+    "id": "80.02.13",
+    "types": [
+      "bool"
+    ],
+    "translations": {
+      "de-CH": "Handübersteuerung",
+      "de-DE": "Handübersteuerung",
+      "en-US": "manual override"
+    }
+  },
+  {
+    "id": "80.02.14",
+    "types": [
+      "bool"
+    ],
+    "translations": {
+      "de-CH": "EW-Sperre aktiv",
+      "de-DE": "EW-Sperre aktiv",
+      "en-US": "utility lock active"
+    }
+  },
+  {
     "id": "80.03.00",
     "types": [
       "bool"
