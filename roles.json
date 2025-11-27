@@ -3754,6 +3754,54 @@
     }
   },
   {
+    "id": "02.05.00",
+    "translations": {
+      "de-CH": "Mobilfunkmodem",
+      "de-DE": "Mobilfunkmodem",
+      "en-US": "cellular modem"
+    }
+  },
+  {
+    "id": "02.06.00",
+    "translations": {
+      "de-CH": "Firewall",
+      "de-DE": "Firewall",
+      "en-US": "firewall"
+    }
+  },
+  {
+    "id": "02.07.00",
+    "translations": {
+      "de-CH": "Switch",
+      "de-DE": "Switch",
+      "en-US": "network switch"
+    }
+  },
+  {
+    "id": "02.08.00",
+    "translations": {
+      "de-CH": "IO-Modul",
+      "de-DE": "IO-Modul",
+      "en-US": "I/O module"
+    }
+  },
+  {
+    "id": "02.09.00",
+    "translations": {
+      "de-CH": "Gateway",
+      "de-DE": "Gateway",
+      "en-US": "gateway"
+    }
+  },
+  {
+    "id": "02.10.00",
+    "translations": {
+      "de-CH": "Netzwerkteilnehmer",
+      "de-DE": "Netzwerkteilnehmer",
+      "en-US": "network participant"
+    }
+  },
+  {
     "id": "03.00.00",
     "translations": {
       "de-CH": "Sanitärtechnik",
