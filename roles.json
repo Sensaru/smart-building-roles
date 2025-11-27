@@ -3586,6 +3586,1163 @@
     "aggregation": "count"
   },
   {
+    "id": "91.00.00",
+    "translations": {
+      "de-CH": "Submetering",
+      "de-DE": "Submetering",
+      "en-US": "Submetering"
+    }
+  },
+  {
+    "id": "91.01.00",
+    "translations": {
+      "de-CH": "Generischer Wasserzähler",
+      "de-DE": "Generischer Wasserzähler",
+      "en-US": "Generic water meter"
+    }
+  },
+  {
+    "id": "91.01.01",
+    "translations": {
+      "de-CH": "Zählerstand",
+      "de-DE": "Zählerstand",
+      "en-US": "Meter reading"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.01.02",
+    "translations": {
+      "de-CH": "Verbrauch",
+      "de-DE": "Verbrauch",
+      "en-US": "Consumption"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.00",
+    "translations": {
+      "de-CH": "Stromzähler",
+      "de-DE": "Stromzähler",
+      "en-US": "Power meter"
+    }
+  },
+  {
+    "id": "91.02.01",
+    "translations": {
+      "de-CH": "Zählerstand",
+      "de-DE": "Zählerstand",
+      "en-US": "Meter reading"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.02",
+    "translations": {
+      "de-CH": "Verbrauch",
+      "de-DE": "Verbrauch",
+      "en-US": "Consumption"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.03",
+    "translations": {
+      "de-CH": "Zählerstand T1",
+      "de-DE": "Zählerstand T1",
+      "en-US": "Meter reading T1"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.04",
+    "translations": {
+      "de-CH": "Verbrauch T1",
+      "de-DE": "Verbrauch T1",
+      "en-US": "Consumption T1"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.05",
+    "translations": {
+      "de-CH": "Zählerstand T2",
+      "de-DE": "Zählerstand T2",
+      "en-US": "Meter reading T2"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.06",
+    "translations": {
+      "de-CH": "Verbrauch T2",
+      "de-DE": "Verbrauch T2",
+      "en-US": "Consumption T2"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.07",
+    "translations": {
+      "de-CH": "Zählerstand Wirkenergie Bezug T1",
+      "de-DE": "Zählerstand Wirkenergie Bezug T1",
+      "en-US": "Meter reading active energy (consumption) T1"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.08",
+    "translations": {
+      "de-CH": "Verbrauch Wirkenergie Bezug T1",
+      "de-DE": "Verbrauch Wirkenergie Bezug T1",
+      "en-US": "Consumption active energy (consumption) T1"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.09",
+    "translations": {
+      "de-CH": "Zählerstand Wirkenergie Bezug T2",
+      "de-DE": "Zählerstand Wirkenergie Bezug T2",
+      "en-US": "Meter reading active energy (consumption) T2"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.10",
+    "translations": {
+      "de-CH": "Verbrauch Wirkenergie Bezug T2",
+      "de-DE": "Verbrauch Wirkenergie Bezug T2",
+      "en-US": "Consumption active energy (consumption) T2"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.11",
+    "translations": {
+      "de-CH": "Zählerstand Wirkenergie Bezug gesamt",
+      "de-DE": "Zählerstand Wirkenergie Bezug gesamt",
+      "en-US": "Meter reading active energy (consumption) total"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.12",
+    "translations": {
+      "de-CH": "Verbrauch Wirkenergie Bezug gesamt",
+      "de-DE": "Verbrauch Wirkenergie Bezug gesamt",
+      "en-US": "Consumption active energy (consumption) total"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.13",
+    "translations": {
+      "de-CH": "Zählerstand Wirkenergie Einspeisung T1",
+      "de-DE": "Zählerstand Wirkenergie Einspeisung T1",
+      "en-US": "Meter reading active energy (production) T1"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.14",
+    "translations": {
+      "de-CH": "Verbrauch Wirkenergie Einspeisung T1",
+      "de-DE": "Verbrauch Wirkenergie Einspeisung T1",
+      "en-US": "Consumption active energy (production) T1"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.15",
+    "translations": {
+      "de-CH": "Zählerstand Wirkenergie Einspeisung T2",
+      "de-DE": "Zählerstand Wirkenergie Einspeisung T2",
+      "en-US": "Meter reading active energy (production) T2"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.16",
+    "translations": {
+      "de-CH": "Verbrauch Wirkenergie Einspeisung T2",
+      "de-DE": "Verbrauch Wirkenergie Einspeisung T2",
+      "en-US": "Consumption active energy (production) T2"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.17",
+    "translations": {
+      "de-CH": "Zählerstand Wirkenergie Einspeisung gesamt",
+      "de-DE": "Zählerstand Wirkenergie Einspeisung gesamt",
+      "en-US": "Meter reading active energy (production) total"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.18",
+    "translations": {
+      "de-CH": "Verbrauch Wirkenergie Einspeisung gesamt",
+      "de-DE": "Verbrauch Wirkenergie Einspeisung gesamt",
+      "en-US": "Consumption active energy (production) total"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.19",
+    "translations": {
+      "de-CH": "Zählerstand Blindenergie Bezug T1",
+      "de-DE": "Zählerstand Blindenergie Bezug T1",
+      "en-US": "Meter reading reactive energy (consumption) T1"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.20",
+    "translations": {
+      "de-CH": "Verbrauch Blindenergie Bezug T1",
+      "de-DE": "Verbrauch Blindenergie Bezug T1",
+      "en-US": "Consumption reactive energy (consumption) T1"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.21",
+    "translations": {
+      "de-CH": "Zählerstand Blindenergie Bezug T2",
+      "de-DE": "Zählerstand Blindenergie Bezug T2",
+      "en-US": "Meter reading reactive energy (consumption) T2"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.22",
+    "translations": {
+      "de-CH": "Verbrauch Blindenergie Bezug T2",
+      "de-DE": "Verbrauch Blindenergie Bezug T2",
+      "en-US": "Consumption reactive energy (consumption) T2"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.23",
+    "translations": {
+      "de-CH": "Zählerstand Blindenergie Bezug gesamt",
+      "de-DE": "Zählerstand Blindenergie Bezug gesamt",
+      "en-US": "Meter reading reactive energy (consumption) total"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.24",
+    "translations": {
+      "de-CH": "Verbrauch Blindenergie Bezug gesamt",
+      "de-DE": "Verbrauch Blindenergie Bezug gesamt",
+      "en-US": "Consumption reactive energy (consumption) total"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.25",
+    "translations": {
+      "de-CH": "Zählerstand Blindenergie Einspeisung T1",
+      "de-DE": "Zählerstand Blindenergie Einspeisung T1",
+      "en-US": "Meter reading reactive energy (production) T1"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.26",
+    "translations": {
+      "de-CH": "Verbrauch Blindenergie Einspeisung T1",
+      "de-DE": "Verbrauch Blindenergie Einspeisung T1",
+      "en-US": "Consumption reactive energy (production) T1"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.27",
+    "translations": {
+      "de-CH": "Zählerstand Blindenergie Einspeisung T2",
+      "de-DE": "Zählerstand Blindenergie Einspeisung T2",
+      "en-US": "Meter reading reactive energy (production) T2"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.28",
+    "translations": {
+      "de-CH": "Verbrauch Blindenergie Einspeisung T2",
+      "de-DE": "Verbrauch Blindenergie Einspeisung T2",
+      "en-US": "Consumption reactive energy (production) T2"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.29",
+    "translations": {
+      "de-CH": "Zählerstand Blindenergie Einspeisung gesamt",
+      "de-DE": "Zählerstand Blindenergie Einspeisung gesamt",
+      "en-US": "Meter reading reactive energy (production) total"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.30",
+    "translations": {
+      "de-CH": "Verbrauch Blindenergie Einspeisung gesamt",
+      "de-DE": "Verbrauch Blindenergie Einspeisung gesamt",
+      "en-US": "Consumption reactive energy (production) total"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.31",
+    "translations": {
+      "de-CH": "Zählerstand Blindenergie gesamt",
+      "de-DE": "Zählerstand Blindenergie gesamt",
+      "en-US": "Meter reading reactive energy total"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.32",
+    "translations": {
+      "de-CH": "Verbrauch Blindenergie gesamt",
+      "de-DE": "Verbrauch Blindenergie gesamt",
+      "en-US": "Consumption reactive energy total"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.33",
+    "translations": {
+      "de-CH": "Zählerstand Wirkenergie Erzeugung T1",
+      "de-DE": "Zählerstand Wirkenergie Erzeugung T1",
+      "en-US": "Meter reading active energy (production) T1"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.34",
+    "translations": {
+      "de-CH": "Produktion Wirkenergie Erzeugung T1",
+      "de-DE": "Produktion Wirkenergie Erzeugung T1",
+      "en-US": "Production active energy (production) T1"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.35",
+    "translations": {
+      "de-CH": "Zählerstand Wirkenergie Erzeugung T2",
+      "de-DE": "Zählerstand Wirkenergie Erzeugung T2",
+      "en-US": "Meter reading active energy (production) T2"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.36",
+    "translations": {
+      "de-CH": "Produktion Wirkenergie Erzeugung T2",
+      "de-DE": "Produktion Wirkenergie Erzeugung T2",
+      "en-US": "Production active energy (production) T2"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.37",
+    "translations": {
+      "de-CH": "Zählerstand Wirkenergie Erzeugung gesamt",
+      "de-DE": "Zählerstand Wirkenergie Erzeugung gesamt",
+      "en-US": "Meter reading active energy (production) total"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.38",
+    "translations": {
+      "de-CH": "Produktion Wirkenergie Erzeugung gesamt",
+      "de-DE": "Produktion Wirkenergie Erzeugung gesamt",
+      "en-US": "Production active energy (production) total"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.02.50",
+    "translations": {
+      "de-CH": "Wirkleistung total",
+      "de-DE": "Wirkleistung total",
+      "en-US": "Active power total"
+    },
+    "aggregation": "average"
+  },
+  {
+    "id": "91.02.52",
+    "translations": {
+      "de-CH": "Cos Phi L1",
+      "de-DE": "Cos Phi L1",
+      "en-US": "Cos Phi L1"
+    },
+    "aggregation": "average"
+  },
+  {
+    "id": "91.02.54",
+    "translations": {
+      "de-CH": "Cos Phi L2",
+      "de-DE": "Cos Phi L2",
+      "en-US": "Cos Phi L2"
+    },
+    "aggregation": "average"
+  },
+  {
+    "id": "91.02.56",
+    "translations": {
+      "de-CH": "Cos Phi L3",
+      "de-DE": "Cos Phi L3",
+      "en-US": "Cos Phi L3"
+    },
+    "aggregation": "average"
+  },
+  {
+    "id": "91.02.58",
+    "translations": {
+      "de-CH": "Cos Phi total",
+      "de-DE": "Cos Phi total",
+      "en-US": "Cos Phi total"
+    },
+    "aggregation": "average"
+  },
+  {
+    "id": "91.02.60",
+    "translations": {
+      "de-CH": "Stromstärke L1",
+      "de-DE": "Stromstärke L1",
+      "en-US": "Current L1"
+    },
+    "aggregation": "average"
+  },
+  {
+    "id": "91.02.62",
+    "translations": {
+      "de-CH": "Stromstärke L2",
+      "de-DE": "Stromstärke L2",
+      "en-US": "Current L2"
+    },
+    "aggregation": "average"
+  },
+  {
+    "id": "91.02.64",
+    "translations": {
+      "de-CH": "Stromstärke L3",
+      "de-DE": "Stromstärke L3",
+      "en-US": "Current L3"
+    },
+    "aggregation": "average"
+  },
+  {
+    "id": "91.02.66",
+    "translations": {
+      "de-CH": "Frequenz",
+      "de-DE": "Frequenz",
+      "en-US": "Frequency"
+    },
+    "aggregation": "average"
+  },
+  {
+    "id": "91.02.68",
+    "translations": {
+      "de-CH": "Blindenergie induktiv T1",
+      "de-DE": "Blindenergie induktiv T1",
+      "en-US": "Reactive energy inductive T1"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.70",
+    "translations": {
+      "de-CH": "Blindenergie induktiv T2",
+      "de-DE": "Blindenergie induktiv T2",
+      "en-US": "Reactive energy inductive T2"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.72",
+    "translations": {
+      "de-CH": "Blindenergie induktiv total ",
+      "de-DE": "Blindenergie induktiv total ",
+      "en-US": "Reactive energy inductive total"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.74",
+    "translations": {
+      "de-CH": "Blindenergie kapazitiv T1",
+      "de-DE": "Blindenergie kapazitiv T1",
+      "en-US": "Reactive energy capazitive T1"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.76",
+    "translations": {
+      "de-CH": "Blindenergie kapazitiv T2",
+      "de-DE": "Blindenergie kapazitiv T2",
+      "en-US": "Reactive energy capazitive T2"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.78",
+    "translations": {
+      "de-CH": "Blindenergie kapazitiv total",
+      "de-DE": "Blindenergie kapazitiv total",
+      "en-US": "Reactive energy capazitive total"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.02.80",
+    "translations": {
+      "de-CH": "Blindleistung total",
+      "de-DE": "Blindleistung total",
+      "en-US": "Reactive power total"
+    },
+    "aggregation": "average"
+  },
+  {
+    "id": "91.02.82",
+    "translations": {
+      "de-CH": "Tarif",
+      "de-DE": "Tarif",
+      "en-US": "Tariff"
+    }
+  },
+  {
+    "id": "91.02.84",
+    "translations": {
+      "de-CH": "Spannung L1-N",
+      "de-DE": "Spannung L1-N",
+      "en-US": "Voltage L1-N"
+    },
+    "aggregation": "average"
+  },
+  {
+    "id": "91.02.86",
+    "translations": {
+      "de-CH": "Spannung L2-N",
+      "de-DE": "Spannung L2-N",
+      "en-US": "Voltage L2-N"
+    },
+    "aggregation": "average"
+  },
+  {
+    "id": "91.02.88",
+    "translations": {
+      "de-CH": "Spannung L3-N",
+      "de-DE": "Spannung L3-N",
+      "en-US": "Voltage L3-N"
+    },
+    "aggregation": "average"
+  },
+  {
+    "id": "91.02.90",
+    "translations": {
+      "de-CH": "Spannung L1-L2",
+      "de-DE": "Spannung L1-L2",
+      "en-US": "Voltage L1-L2"
+    },
+    "aggregation": "average"
+  },
+  {
+    "id": "91.02.92",
+    "translations": {
+      "de-CH": "Spannung L2-L3",
+      "de-DE": "Spannung L2-L3",
+      "en-US": "Voltage L2-L3"
+    },
+    "aggregation": "average"
+  },
+  {
+    "id": "91.02.94",
+    "translations": {
+      "de-CH": "Spannung L3-L1",
+      "de-DE": "Spannung L3-L1",
+      "en-US": "Voltage L3-L1"
+    },
+    "aggregation": "average"
+  },
+  {
+    "id": "91.03.00",
+    "translations": {
+      "de-CH": "Gaszähler",
+      "de-DE": "Gaszähler",
+      "en-US": "Gas meter"
+    }
+  },
+  {
+    "id": "91.03.01",
+    "translations": {
+      "de-CH": "Zählerstand (Volumen)",
+      "de-DE": "Zählerstand (Volumen)",
+      "en-US": "Meter reading (volume)"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.03.02",
+    "translations": {
+      "de-CH": "Verbrauch (Volumen)",
+      "de-DE": "Verbrauch (Volumen)",
+      "en-US": "Consumption (volume)"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.03.03",
+    "translations": {
+      "de-CH": "Zählerstand (Energie)",
+      "de-DE": "Zählerstand (Energie)",
+      "en-US": "Consumption (energy)"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.03.04",
+    "translations": {
+      "de-CH": "Verbrauch (Energie)",
+      "de-DE": "Verbrauch (Energie)",
+      "en-US": "Consumption (energy)"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.04.00",
+    "translations": {
+      "de-CH": "Wärmemengenzähler Heizung",
+      "de-DE": "Wärmemengenzähler Heizung",
+      "en-US": "Heat meter for heating"
+    }
+  },
+  {
+    "id": "91.04.01",
+    "translations": {
+      "de-CH": "Zählerstand",
+      "de-DE": "Zählerstand",
+      "en-US": "Meter reading"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.04.02",
+    "translations": {
+      "de-CH": "Verbrauch",
+      "de-DE": "Verbrauch",
+      "en-US": "Consumption"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.04.03",
+    "translations": {
+      "de-CH": "Volumenfluss",
+      "de-DE": "Volumenfluss",
+      "en-US": "Volume flow"
+    }
+  },
+  {
+    "id": "91.04.04",
+    "translations": {
+      "de-CH": "Vorlauftemperatur",
+      "de-DE": "Vorlauftemperatur",
+      "en-US": "Supply temperature"
+    }
+  },
+  {
+    "id": "91.04.05",
+    "translations": {
+      "de-CH": "Rücklauftemperatur",
+      "de-DE": "Rücklauftemperatur",
+      "en-US": "Return temperature"
+    }
+  },
+  {
+    "id": "91.04.06",
+    "translations": {
+      "de-CH": "Volumen",
+      "de-DE": "Volumen",
+      "en-US": "Volume"
+    }
+  },
+  {
+    "id": "91.04.07",
+    "translations": {
+      "de-CH": "Leistung",
+      "de-DE": "Leistung",
+      "en-US": "Thermal power"
+    }
+  },
+  {
+    "id": "91.05.00",
+    "translations": {
+      "de-CH": "Kältemengenzähler",
+      "de-DE": "Kältemengenzähler",
+      "en-US": "Cooling energy meter"
+    }
+  },
+  {
+    "id": "91.05.01",
+    "translations": {
+      "de-CH": "Zählerstand",
+      "de-DE": "Zählerstand",
+      "en-US": "Meter reading"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.05.02",
+    "translations": {
+      "de-CH": "Verbrauch",
+      "de-DE": "Verbrauch",
+      "en-US": "Consumption"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.05.03",
+    "translations": {
+      "de-CH": "Volumenfluss",
+      "de-DE": "Volumenfluss",
+      "en-US": "Volume flow"
+    }
+  },
+  {
+    "id": "91.05.04",
+    "translations": {
+      "de-CH": "Vorlauftemperatur",
+      "de-DE": "Vorlauftemperatur",
+      "en-US": "Supply temperature"
+    }
+  },
+  {
+    "id": "91.05.05",
+    "translations": {
+      "de-CH": "Rücklauftemperatur",
+      "de-DE": "Rücklauftemperatur",
+      "en-US": "Return temperature"
+    }
+  },
+  {
+    "id": "91.05.06",
+    "translations": {
+      "de-CH": "Volumen",
+      "de-DE": "Volumen",
+      "en-US": "Volume"
+    }
+  },
+  {
+    "id": "91.05.07",
+    "translations": {
+      "de-CH": "Leistung",
+      "de-DE": "Leistung",
+      "en-US": "Thermal power"
+    }
+  },
+  {
+    "id": "91.06.00",
+    "translations": {
+      "de-CH": "Warmwasserzähler",
+      "de-DE": "Warmwasserzähler",
+      "en-US": "Hot water meter"
+    }
+  },
+  {
+    "id": "91.06.01",
+    "translations": {
+      "de-CH": "Zählerstand",
+      "de-DE": "Zählerstand",
+      "en-US": "Meter reading"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.06.02",
+    "translations": {
+      "de-CH": "Verbrauch",
+      "de-DE": "Verbrauch",
+      "en-US": "Consumption"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.07.00",
+    "translations": {
+      "de-CH": "Kaltwasserzähler",
+      "de-DE": "Kaltwasserzähler",
+      "en-US": "Cold water meter"
+    }
+  },
+  {
+    "id": "91.07.01",
+    "translations": {
+      "de-CH": "Zählerstand",
+      "de-DE": "Zählerstand",
+      "en-US": "Meter reading"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.07.02",
+    "translations": {
+      "de-CH": "Verbrauch",
+      "de-DE": "Verbrauch",
+      "en-US": "Consumption"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.08.00",
+    "translations": {
+      "de-CH": "Abwasserzähler",
+      "de-DE": "Abwasserzähler",
+      "en-US": "Waste water meter"
+    }
+  },
+  {
+    "id": "91.08.01",
+    "translations": {
+      "de-CH": "Zählerstand",
+      "de-DE": "Zählerstand",
+      "en-US": "Meter reading"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.08.02",
+    "translations": {
+      "de-CH": "Verbrauch",
+      "de-DE": "Verbrauch",
+      "en-US": "Consumption"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.09.00",
+    "translations": {
+      "de-CH": "Wärmemengenzähler Warmwasser",
+      "de-DE": "Wärmemengenzähler Warmwasser",
+      "en-US": "Heat meter for hot water"
+    }
+  },
+  {
+    "id": "91.09.01",
+    "translations": {
+      "de-CH": "Zählerstand",
+      "de-DE": "Zählerstand",
+      "en-US": "Meter reading"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.09.02",
+    "translations": {
+      "de-CH": "Verbrauch",
+      "de-DE": "Verbrauch",
+      "en-US": "Consumption"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.09.03",
+    "translations": {
+      "de-CH": "Volumenfluss",
+      "de-DE": "Volumenfluss",
+      "en-US": "Volume flow"
+    }
+  },
+  {
+    "id": "91.09.04",
+    "translations": {
+      "de-CH": "Vorlauftemperatur",
+      "de-DE": "Vorlauftemperatur",
+      "en-US": "Supply temperature"
+    }
+  },
+  {
+    "id": "91.09.05",
+    "translations": {
+      "de-CH": "Rücklauftemperatur",
+      "de-DE": "Rücklauftemperatur",
+      "en-US": "Return temperature"
+    }
+  },
+  {
+    "id": "91.09.06",
+    "translations": {
+      "de-CH": "Volumen",
+      "de-DE": "Volumen",
+      "en-US": "Volume"
+    }
+  },
+  {
+    "id": "91.10.00",
+    "translations": {
+      "de-CH": "Wärmemengenzähler Sonnenkollektor",
+      "de-DE": "Wärmemengenzähler Sonnenkollektor",
+      "en-US": "Heat meter for solar thermal collector"
+    }
+  },
+  {
+    "id": "91.10.01",
+    "translations": {
+      "de-CH": "Zählerstand",
+      "de-DE": "Zählerstand",
+      "en-US": "Meter reading"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.10.02",
+    "translations": {
+      "de-CH": "Verbrauch",
+      "de-DE": "Verbrauch",
+      "en-US": "Consumption"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.10.03",
+    "translations": {
+      "de-CH": "Volumenfluss",
+      "de-DE": "Volumenfluss",
+      "en-US": "Volume flow"
+    }
+  },
+  {
+    "id": "91.10.04",
+    "translations": {
+      "de-CH": "Vorlauftemperatur",
+      "de-DE": "Vorlauftemperatur",
+      "en-US": "Supply temperature"
+    }
+  },
+  {
+    "id": "91.10.05",
+    "translations": {
+      "de-CH": "Rücklauftemperatur",
+      "de-DE": "Rücklauftemperatur",
+      "en-US": "Return temperature"
+    }
+  },
+  {
+    "id": "91.10.06",
+    "translations": {
+      "de-CH": "Volumen",
+      "de-DE": "Volumen",
+      "en-US": "Volume"
+    }
+  },
+  {
+    "id": "91.11.00",
+    "translations": {
+      "de-CH": "Wärmemengenzähler Wärmepumpe",
+      "de-DE": "Wärmemengenzähler Wärmepumpe",
+      "en-US": "Heat meter for heat pump"
+    }
+  },
+  {
+    "id": "91.11.01",
+    "translations": {
+      "de-CH": "Zählerstand",
+      "de-DE": "Zählerstand",
+      "en-US": "Meter reading"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.11.02",
+    "translations": {
+      "de-CH": "Verbrauch",
+      "de-DE": "Verbrauch",
+      "en-US": "Consumption"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.11.03",
+    "translations": {
+      "de-CH": "Volumenfluss",
+      "de-DE": "Volumenfluss",
+      "en-US": "Volume flow"
+    }
+  },
+  {
+    "id": "91.11.04",
+    "translations": {
+      "de-CH": "Vorlauftemperatur",
+      "de-DE": "Vorlauftemperatur",
+      "en-US": "Supply temperature"
+    }
+  },
+  {
+    "id": "91.11.05",
+    "translations": {
+      "de-CH": "Rücklauftemperatur",
+      "de-DE": "Rücklauftemperatur",
+      "en-US": "Return temperature"
+    }
+  },
+  {
+    "id": "91.11.06",
+    "translations": {
+      "de-CH": "Volumen",
+      "de-DE": "Volumen",
+      "en-US": "Volume"
+    }
+  },
+  {
+    "id": "91.12.00",
+    "translations": {
+      "de-CH": "Ölzähler",
+      "de-DE": "Ölzähler",
+      "en-US": "Oil meter"
+    }
+  },
+  {
+    "id": "91.12.01",
+    "translations": {
+      "de-CH": "Zählerstand (Volumen)",
+      "de-DE": "Zählerstand (Volumen)",
+      "en-US": "Meter reading (volume)"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.12.02",
+    "translations": {
+      "de-CH": "Verbrauch (Volumen)",
+      "de-DE": "Verbrauch (Volumen)",
+      "en-US": "Consumption (volume)"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.12.03",
+    "translations": {
+      "de-CH": "Zählerstand (Energie)",
+      "de-DE": "Zählerstand (Energie)",
+      "en-US": "Consumption (energy)"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.12.04",
+    "translations": {
+      "de-CH": "Verbrauch (Energie)",
+      "de-DE": "Verbrauch (Energie)",
+      "en-US": "Consumption (energy)"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.13.00",
+    "translations": {
+      "de-CH": "Stromzähler Heizung",
+      "de-DE": "Stromzähler Heizung",
+      "en-US": "Power meter heating"
+    }
+  },
+  {
+    "id": "91.13.01",
+    "translations": {
+      "de-CH": "Zählerstand",
+      "de-DE": "Zählerstand",
+      "en-US": "Meter reading"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.13.02",
+    "translations": {
+      "de-CH": "Verbrauch",
+      "de-DE": "Verbrauch",
+      "en-US": "Consumption"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.14.00",
+    "translations": {
+      "de-CH": "Fernwärmemengenzähler",
+      "de-DE": "Fernwärmemengenzähler",
+      "en-US": "District heat meter"
+    }
+  },
+  {
+    "id": "91.14.01",
+    "translations": {
+      "de-CH": "Zählerstand",
+      "de-DE": "Zählerstand",
+      "en-US": "Meter reading"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.15.00",
+    "translations": {
+      "de-CH": "Pelletzähler",
+      "de-DE": "Pelletzähler",
+      "en-US": "Pellet meter"
+    }
+  },
+  {
+    "id": "91.15.01",
+    "translations": {
+      "de-CH": "Zählerstand",
+      "de-DE": "Zählerstand",
+      "en-US": "Meter reading"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.15.02",
+    "translations": {
+      "de-CH": "Verbrauch",
+      "de-DE": "Verbrauch",
+      "en-US": "Consumption"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "91.16.00",
+    "translations": {
+      "de-CH": "Universalzähler",
+      "de-DE": "Universalzähler",
+      "en-US": "Generic meter"
+    }
+  },
+  {
+    "id": "91.16.01",
+    "translations": {
+      "de-CH": "Zählerstand",
+      "de-DE": "Zählerstand",
+      "en-US": "Meter reading"
+    },
+    "aggregation": "meter"
+  },
+  {
+    "id": "91.16.02",
+    "translations": {
+      "de-CH": "Verbrauch",
+      "de-DE": "Verbrauch",
+      "en-US": "Consumption"
+    },
+    "aggregation": "count"
+  },
+  {
     "id": "01.00.00",
     "translations": {
       "de-CH": "Sensoren",
