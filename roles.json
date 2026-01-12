@@ -945,6 +945,585 @@
     }
   },
   {
+    "id": "21.00.00",
+    "translations": {
+      "de-CH": "HLK intern",
+      "de-DE": "HLK intern",
+      "en-US": "HVAC internal"
+    }
+  },
+  {
+    "id": "21.10.00",
+    "translations": {
+      "de-CH": "Heizung intern",
+      "de-DE": "Heizung intern",
+      "en-US": "heating internal"
+    }
+  },
+  {
+    "id": "21.10.01",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Ist-Temperatur",
+      "de-DE": "Heizung - Ist-Temperatur",
+      "en-US": "heating - current temperature"
+    }
+  },
+  {
+    "id": "21.10.02",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Soll-Temperatur",
+      "de-DE": "Heizung - Soll-Temperatur",
+      "en-US": "heating - setpoint temperature"
+    }
+  },
+  {
+    "id": "21.10.03",
+    "types": [
+      "int"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Temperaturmodus",
+      "de-DE": "Heizung - Temperaturmodus",
+      "en-US": "heating - temperature mode"
+    }
+  },
+  {
+    "id": "21.10.04",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Komforttemperatur",
+      "de-DE": "Heizung - Komforttemperatur",
+      "en-US": "heating - comfort temperature"
+    }
+  },
+  {
+    "id": "21.10.05",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Absenktemperatur",
+      "de-DE": "Heizung - Absenktemperatur",
+      "en-US": "heating - eco temperature"
+    }
+  },
+  {
+    "id": "21.10.06",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Frostschutztemperatur",
+      "de-DE": "Heizung - Frostschutztemperatur",
+      "en-US": "heating - frost protection temperature"
+    }
+  },
+  {
+    "id": "21.10.07",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Warmwassertemperatur",
+      "de-DE": "Heizung - Warmwassertemperatur",
+      "en-US": "heating system - warm water temperature"
+    }
+  },
+  {
+    "id": "21.10.08",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Warmwasser Solltemperatur",
+      "de-DE": "Heizung - Warmwasser Solltemperatur",
+      "en-US": "heating system - warm water setpoint temperature"
+    }
+  },
+  {
+    "id": "21.10.09",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Aussentemperatur",
+      "de-DE": "Heizung - Außentemperatur",
+      "en-US": "heating system - outside temperature"
+    }
+  },
+  {
+    "id": "21.10.10",
+    "types": [
+      "int"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Betriebsstunden",
+      "de-DE": "Heizung - Betriebsstunden",
+      "en-US": "heating system - operating hours"
+    }
+  },
+  {
+    "id": "21.10.11",
+    "translations": {
+      "de-CH": "Heizung - Heizkreispumpe",
+      "de-DE": "Heizung - Heizkreispumpe",
+      "en-US": "heating system - circuit pump"
+    }
+  },
+  {
+    "id": "21.10.12",
+    "translations": {
+      "de-CH": "Heizung - Anforderung",
+      "de-DE": "Heizung - Anforderung",
+      "en-US": "heating system - demand"
+    }
+  },
+  {
+    "id": "21.10.13",
+    "translations": {
+      "de-CH": "Heizung - Mischerstellung",
+      "de-DE": "Heizung - Mischerstellung",
+      "en-US": "heating system - mixing valve level"
+    }
+  },
+  {
+    "id": "21.10.14",
+    "translations": {
+      "de-CH": "Heizung - Vorlauftemperatur",
+      "de-DE": "Heizung - Vorlauftemperatur",
+      "en-US": "heating system - supply temperature"
+    }
+  },
+  {
+    "id": "21.10.15",
+    "translations": {
+      "de-CH": "Heizung - Rücklauftemperatur",
+      "de-DE": "Heizung - Rücklauftemperatur",
+      "en-US": "heating system - return temperature"
+    }
+  },
+  {
+    "id": "21.10.16",
+    "translations": {
+      "de-CH": "Heizung - Betriebsmeldung",
+      "de-DE": "Heizung - Betriebsmeldung",
+      "en-US": "heating system - operating notification"
+    }
+  },
+  {
+    "id": "21.10.17",
+    "translations": {
+      "de-CH": "Heizung - Druck",
+      "de-DE": "Heizung - Druck",
+      "en-US": "heating system - pressure"
+    }
+  },
+  {
+    "id": "21.10.18",
+    "translations": {
+      "de-CH": "Heizung - Aktuelle Heizleistung",
+      "de-DE": "Heizung - Aktuelle Heizleistung",
+      "en-US": "heating system - current heating power"
+    },
+    "aggregation": "max"
+  },
+  {
+    "id": "21.10.19",
+    "translations": {
+      "de-CH": "Heizung - Taktung",
+      "de-DE": "Heizung - Taktung",
+      "en-US": "heating system - on/off cycles"
+    },
+    "aggregation": "count"
+  },
+  {
+    "id": "21.10.20",
+    "translations": {
+      "de-CH": "Heizung - Wirkungsgrad",
+      "de-DE": "Heizung - Wirkungsgrad",
+      "en-US": "heating system - efficiency"
+    }
+  },
+  {
+    "id": "21.10.21",
+    "translations": {
+      "de-CH": "Heizung - Energieverlust",
+      "de-DE": "Heizung - Energieverlust",
+      "en-US": "heating system - energy loss"
+    }
+  },
+  {
+    "id": "21.10.22",
+    "translations": {
+      "de-CH": "Heizung - CO₂",
+      "de-DE": "Heizung - CO₂",
+      "en-US": "heating system - CO₂"
+    }
+  },
+  {
+    "id": "21.10.23",
+    "translations": {
+      "de-CH": "Heizung - Fließgeschwindigkeit",
+      "de-DE": "Heizung - Fließgeschwindigkeit",
+      "en-US": "heating system - flow rate"
+    }
+  },
+  {
+    "id": "21.10.24",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Temperatur TWW-Speicher oben",
+      "de-DE": "Heizung - Temperatur TWW-Speicher oben",
+      "en-US": "heating system - DHW tank temperature top"
+    }
+  },
+  {
+    "id": "21.10.25",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Temperatur TWW-Speicher Mitte oben",
+      "de-DE": "Heizung - Temperatur TWW-Speicher Mitte oben",
+      "en-US": "heating system - DHW tank temperature middle top"
+    }
+  },
+  {
+    "id": "21.10.26",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Temperatur TWW-Speicher Mitte unten",
+      "de-DE": "Heizung - Temperatur TWW-Speicher Mitte unten",
+      "en-US": "heating system - DHW tank temperature middle bottom"
+    }
+  },
+  {
+    "id": "21.10.27",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Temperatur TWW-Speicher unten",
+      "de-DE": "Heizung - Temperatur TWW-Speicher unten",
+      "en-US": "heating system - DHW tank temperature bottom"
+    }
+  },
+  {
+    "id": "21.10.28",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Temperatur technischer Speicher oben",
+      "de-DE": "Heizung - Temperatur technischer Speicher oben",
+      "en-US": "heating system - buffer tank temperature top"
+    }
+  },
+  {
+    "id": "21.10.29",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Temperatur technischer Speicher Mitte oben",
+      "de-DE": "Heizung - Temperatur technischer Speicher Mitte oben",
+      "en-US": "heating system - buffer tank temperature middle top"
+    }
+  },
+  {
+    "id": "21.10.30",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Temperatur technischer Speicher Mitte unten",
+      "de-DE": "Heizung - Temperatur technischer Speicher Mitte unten",
+      "en-US": "heating system - buffer tank temperature middle bottom"
+    }
+  },
+  {
+    "id": "21.10.31",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Temperatur technischer Speicher unten",
+      "de-DE": "Heizung - Temperatur technischer Speicher unten",
+      "en-US": "heating system - buffer tank temperature bottom"
+    }
+  },
+  {
+    "id": "21.10.32",
+    "types": [
+      "bool"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Heizeinsatz Elektro",
+      "de-DE": "Heizung - Heizeinsatz Elektro",
+      "en-US": "heating system - electric heater"
+    }
+  },
+  {
+    "id": "21.11.00",
+    "translations": {
+      "de-CH": "Druckhaltestation intern",
+      "de-DE": "Druckhaltestation intern",
+      "en-US": "pressure-maintaining station internal"
+    }
+  },
+  {
+    "id": "21.20.00",
+    "translations": {
+      "de-CH": "Lüftung intern",
+      "de-DE": "Lüftung intern",
+      "en-US": "ventilation internal"
+    }
+  },
+  {
+    "id": "21.20.01",
+    "translations": {
+      "de-CH": "Lüftungsstufe",
+      "de-DE": "Lüftungsstufe",
+      "en-US": "ventilation level"
+    }
+  },
+  {
+    "id": "21.20.02",
+    "translations": {
+      "de-CH": "Aussenluft",
+      "de-DE": "Außenluft",
+      "en-US": "outside air"
+    }
+  },
+  {
+    "id": "21.20.03",
+    "translations": {
+      "de-CH": "Zuluft",
+      "de-DE": "Zuluft",
+      "en-US": "supply air"
+    }
+  },
+  {
+    "id": "21.20.04",
+    "translations": {
+      "de-CH": "Abluft",
+      "de-DE": "Abluft",
+      "en-US": "extract air"
+    }
+  },
+  {
+    "id": "21.20.05",
+    "translations": {
+      "de-CH": "Fortluft",
+      "de-DE": "Fortluft",
+      "en-US": "exhaust air"
+    }
+  },
+  {
+    "id": "21.20.06",
+    "translations": {
+      "de-CH": "Brandschutzklappe",
+      "de-DE": "Brandschutzklappe",
+      "en-US": "fire damper"
+    }
+  },
+  {
+    "id": "21.20.07",
+    "translations": {
+      "de-CH": "Differenzdruck",
+      "de-DE": "Differenzdruck",
+      "en-US": "differential pressure"
+    }
+  },
+  {
+    "id": "21.20.08",
+    "translations": {
+      "de-CH": "co-no-Anlage",
+      "de-DE": "co-no-Anlage",
+      "en-US": "co-no System"
+    }
+  },
+  {
+    "id": "21.20.09",
+    "translations": {
+      "de-CH": "Abluftventilator",
+      "de-DE": "Abluftventilator",
+      "en-US": "exctract air ventilator"
+    }
+  },
+  {
+    "id": "21.20.10",
+    "translations": {
+      "de-CH": "Aussenluftventilator",
+      "de-DE": "Außenluftventilator",
+      "en-US": "outside air ventilator"
+    }
+  },
+  {
+    "id": "21.20.11",
+    "translations": {
+      "de-CH": "Abluft Differenzdruck",
+      "de-DE": "Abluft Differenzdruck",
+      "en-US": "extract air differenial pressure"
+    }
+  },
+  {
+    "id": "21.20.12",
+    "translations": {
+      "de-CH": "Aussenluft Differenzdruck",
+      "de-DE": "Außenluft Differenzdruck",
+      "en-US": "outside air differenial pressure"
+    }
+  },
+  {
+    "id": "21.20.13",
+    "translations": {
+      "de-CH": "Aussenlufttemperatur",
+      "de-DE": "Außenlufttemperatur",
+      "en-US": "outside air temperature"
+    }
+  },
+  {
+    "id": "21.20.14",
+    "translations": {
+      "de-CH": "Aussenluftfeuchte",
+      "de-DE": "Außenluftfeuchte",
+      "en-US": "outside air humidity"
+    }
+  },
+  {
+    "id": "21.20.15",
+    "translations": {
+      "de-CH": "Fortlufttemperatur",
+      "de-DE": "Fortlufttemperatur",
+      "en-US": "exhaust temperature"
+    }
+  },
+  {
+    "id": "21.20.16",
+    "translations": {
+      "de-CH": "Fortluftfeuchte",
+      "de-DE": "Fortluftfeuchte",
+      "en-US": "exhaust air humidity"
+    }
+  },
+  {
+    "id": "21.20.17",
+    "translations": {
+      "de-CH": "Zulufttemperatur",
+      "de-DE": "Zulufttemperatur",
+      "en-US": "supply air temperature"
+    }
+  },
+  {
+    "id": "21.20.18",
+    "translations": {
+      "de-CH": "Zuluftfeuchte",
+      "de-DE": "Zuluftfeuchte",
+      "en-US": "supply air humidity"
+    }
+  },
+  {
+    "id": "21.20.19",
+    "translations": {
+      "de-CH": "Ablufttemperatur",
+      "de-DE": "Ablufttemperatur",
+      "en-US": "extract temperature"
+    }
+  },
+  {
+    "id": "21.20.20",
+    "translations": {
+      "de-CH": "Abluftfeuchte",
+      "de-DE": "Abluftfeuchte",
+      "en-US": "extract air humidity"
+    }
+  },
+  {
+    "id": "21.20.21",
+    "translations": {
+      "de-CH": "Aussentemperatur",
+      "de-DE": "Außentemperatur",
+      "en-US": "outside temperature"
+    }
+  },
+  {
+    "id": "21.20.22",
+    "translations": {
+      "de-CH": "Betriebsmeldung",
+      "de-DE": "Betriebsmeldung",
+      "en-US": "operating notification"
+    }
+  },
+  {
+    "id": "21.20.23",
+    "translations": {
+      "de-CH": "Zuluftventilator",
+      "de-DE": "Zuluftventilator",
+      "en-US": "supply air ventilator"
+    }
+  },
+  {
+    "id": "21.20.24",
+    "translations": {
+      "de-CH": "Fortluftventilator",
+      "de-DE": "Fortluftventilator",
+      "en-US": "exhaust air ventilator"
+    }
+  },
+  {
+    "id": "21.20.25",
+    "translations": {
+      "de-CH": "Zuluft Differenzdruck",
+      "de-DE": "Zuluft Differenzdruck",
+      "en-US": "supply air differential pressure"
+    }
+  },
+  {
+    "id": "21.20.26",
+    "translations": {
+      "de-CH": "Fortluft Differenzdruck",
+      "de-DE": "Fortluft Differenzdruck",
+      "en-US": "exhaust air differential pressure"
+    }
+  },
+  {
+    "id": "21.30.00",
+    "translations": {
+      "de-CH": "Wärmepumpe intern",
+      "de-DE": "Wärmepumpe intern",
+      "en-US": "heat pump internal"
+    }
+  },
+  {
+    "id": "21.40.00",
+    "translations": {
+      "de-CH": "Pumpe intern",
+      "de-DE": "Pumpe intern",
+      "en-US": "pump internal"
+    }
+  },
+  {
+    "id": "21.50.00",
+    "translations": {
+      "de-CH": "Pelletkessel intern",
+      "de-DE": "Pelletkessel intern",
+      "en-US": "pellet boiler internal"
+    }
+  },
+  {
     "id": "30.00.00",
     "translations": {
       "de-CH": "Sicherheit",
