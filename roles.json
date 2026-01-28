@@ -3496,8 +3496,8 @@
   {
     "id": "02.01.04",
     "translations": {
-      "de-CH": "NB-IoT-Reset-Zähler",
-      "de-DE": "NB-IoT-Reset-Zähler",
+      "de-CH": "NB-IoT-Resetzähler",
+      "de-DE": "NB-IoT-Resetzähler",
       "en-US": "NB-IoT reset counter"
     }
   },
@@ -3531,6 +3531,14 @@
       "de-CH": "Aufwachzählerfehler",
       "de-DE": "Aufwachzählerfehler",
       "en-US": "Wake-up counter error"
+    }
+  },
+  {
+    "id": "02.01.09",
+    "translations": {
+      "de-CH": "Watchdog-Abschaltungen",
+      "de-DE": "Watchdog-Abschaltungen",
+      "en-US": "Watchdog shut downs"
     }
   },
   {
