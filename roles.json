@@ -673,6 +673,28 @@
     }
   },
   {
+    "id": "20.10.33",
+    "types": [
+      "bool"
+    ],
+    "translations": {
+      "de-CH": "Statische Außentemperaturoffsets",
+      "de-DE": "Statische Außentemperaturoffsets",
+      "en-US": "static outside temperature offsets"
+    }
+  },
+  {
+    "id": "20.10.34",
+    "types": [
+      "bool"
+    ],
+    "translations": {
+      "de-CH": "Dynamische Außentemperaturoffsets",
+      "de-DE": "Dynamische Außentemperaturoffsets",
+      "en-US": "dynamic outside temperature offsets"
+    }
+  },
+  {
     "id": "20.11.00",
     "translations": {
       "de-CH": "Druckhaltestation",
