@@ -695,6 +695,28 @@
     }
   },
   {
+    "id": "20.10.35",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Spreizung",
+      "de-DE": "Heizung - Spreizung",
+      "en-US": "heating system - spread"
+    }
+  },
+  {
+    "id": "20.10.36",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Geglättete Vorlauftemperatur",
+      "de-DE": "Heizung - Geglättete Vorlauftemperatur",
+      "en-US": "heating system - smoothed supply temperature"
+    }
+  },
+  {
     "id": "20.11.00",
     "translations": {
       "de-CH": "Druckhaltestation",
