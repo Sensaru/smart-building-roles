@@ -728,6 +728,17 @@
     }
   },
   {
+    "id": "20.10.38",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Bedarfsdeckung",
+      "de-DE": "Heizung - Bedarfsdeckung",
+      "en-US": "heating system - demand coverage"
+    }
+  },
+  {
     "id": "20.11.00",
     "translations": {
       "de-CH": "Druckhaltestation",
