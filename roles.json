@@ -739,6 +739,17 @@
     }
   },
   {
+    "id": "20.10.39",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Brennwertoptimierung",
+      "de-DE": "Heizung - Brennwertoptimierung",
+      "en-US": "heating system - condensing optimization"
+    }
+  },
+  {
     "id": "20.11.00",
     "translations": {
       "de-CH": "Druckhaltestation",
