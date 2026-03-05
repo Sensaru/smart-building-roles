@@ -744,9 +744,20 @@
       "float"
     ],
     "translations": {
-      "de-CH": "Heizung - Brennwertoptimierung",
-      "de-DE": "Heizung - Brennwertoptimierung",
-      "en-US": "heating system - condensing optimization"
+      "de-CH": "Heizung - Brennwertoptimierung (aktuell)",
+      "de-DE": "Heizung - Brennwertoptimierung (aktuell)",
+      "en-US": "heating system - condensing optimization (current)"
+    }
+  },
+  {
+    "id": "20.10.40",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Brennwertoptimierung (gesamt)",
+      "de-DE": "Heizung - Brennwertoptimierung (gesamt)",
+      "en-US": "heating system - condensing optimization (total)"
     }
   },
   {
