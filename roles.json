@@ -761,6 +761,28 @@
     }
   },
   {
+    "id": "20.10.41",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Verteilnetzverlustoptimierung (aktuell)",
+      "de-DE": "Heizung - Verteilnetzverlustoptimierung (aktuell)",
+      "en-US": "heating system - distribution loss optimization (current)"
+    }
+  },
+  {
+    "id": "20.10.42",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Heizung - Verteilnetzverlustoptimierung (gesamt)",
+      "de-DE": "Heizung - Verteilnetzverlustoptimierung (gesamt)",
+      "en-US": "heating system - distribution loss optimization (total)"
+    }
+  },
+  {
     "id": "20.11.00",
     "translations": {
       "de-CH": "Druckhaltestation",
