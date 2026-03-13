@@ -783,6 +783,17 @@
     }
   },
   {
+    "id": "20.10.43",
+    "types": [
+      "float"
+    ],
+    "translations": {
+      "de-CH": "Aktuelle Außentemperaturoffsets",
+      "de-DE": "Aktuelle Außentemperaturoffsets",
+      "en-US": "current outside temperature offsets"
+    }
+  },
+  {
     "id": "20.11.00",
     "translations": {
       "de-CH": "Druckhaltestation",
