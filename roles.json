@@ -5595,6 +5595,14 @@
     }
   },
   {
+    "id": "02.01.10",
+    "translations": {
+      "de-CH": "Cloud-Antwortverlust",
+      "de-DE": "Cloud-Antwortverlust",
+      "en-US": "Cloud response loss"
+    }
+  },
+  {
     "id": "02.02.00",
     "translations": {
       "de-CH": "Kommunikationsmodul",
