@@ -5603,6 +5603,38 @@
     }
   },
   {
+    "id": "02.01.11",
+    "translations": {
+      "de-CH": "NB-IoT-Fehlerabschaltungen",
+      "de-DE": "NB-IoT-Fehlerabschaltungen",
+      "en-US": "NB-IoT error shutdowns"
+    }
+  },
+  {
+    "id": "02.01.12",
+    "translations": {
+      "de-CH": "Ungültige RF-Startbyte-Fehler",
+      "de-DE": "Ungültige RF-Startbyte-Fehler",
+      "en-US": "Invalid RF start byte errors"
+    }
+  },
+  {
+    "id": "02.01.13",
+    "translations": {
+      "de-CH": "NB-IoT-Antwort-Timeouts",
+      "de-DE": "NB-IoT-Antwort-Timeouts",
+      "en-US": "NB-IoT response timeouts"
+    }
+  },
+  {
+    "id": "02.01.14",
+    "translations": {
+      "de-CH": "Letzter NB-IoT-Fehlercode",
+      "de-DE": "Letzter NB-IoT-Fehlercode",
+      "en-US": "Last NB-IoT error code"
+    }
+  },
+  {
     "id": "02.02.00",
     "translations": {
       "de-CH": "Kommunikationsmodul",
